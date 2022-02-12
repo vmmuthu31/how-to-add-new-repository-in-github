@@ -13,7 +13,7 @@ If you get this error message: fatal: Not a git repository (or any of the parent
       git add .
   
   
-       git commit -m "initial commit"
+      git commit -m "initial commit"
   
   
 → If you get another error message, read carefully what it says.
