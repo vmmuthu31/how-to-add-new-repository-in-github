@@ -7,13 +7,13 @@ Do you need a refresher on git? Go through Codecademy's git course.
 (ii)Check if git is already initialized: git status
 If you get this error message: fatal: Not a git repository (or any of the parent directories): .git, that means the folder you are currently in is not being tracked by git. In that case, initialize git inside your project folder and make your first commit:
 
-  git init
+      git init
   
   
-  git add .
+      git add .
   
   
-  git commit -m "initial commit"
+       git commit -m "initial commit"
   
   
 → If you get another error message, read carefully what it says.
