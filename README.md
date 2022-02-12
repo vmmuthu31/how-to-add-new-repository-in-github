@@ -13,7 +13,9 @@ If you get this error message: fatal: Not a git repository (or any of the parent
 → If you get another error message, read carefully what it says.
 
   <>Is it saying git isn't installed on your computer by saying that the word 'git' is not recognized?
+  
   <>Is it saying that you're already in a folder or sub-folder where git is initialized?
+  
   <>Google the error output to understand it, and to figure out how to fix it.
 
 
