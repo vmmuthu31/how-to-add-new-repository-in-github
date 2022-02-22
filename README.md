@@ -44,6 +44,6 @@ This is the web address that your local folder will use to push its contents to 
 
  (iii) In your terminal/command line, type git remote add origin [copied web address] Example: git remote add origin https://github.com/yourname/yourproject.git
 
- (iv) Push your branch to Github: git push -u origin main
+ (iv) Push your branch to Github: git push -u origin master
 
  (v) Go back to the folder/repository screen on Github that you just left, and refresh it. The title 'Quick setup — if you’ve done this kind of thing before' should disappear, and you should see your files there.
