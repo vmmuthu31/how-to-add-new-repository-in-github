@@ -1,3 +1,5 @@
+# This repo is to help the new git users to push their project over the github.
+
 1. Make sure git is tracking your project locally
 Do you need a refresher on git? Go through Codecademy's git course.
 
